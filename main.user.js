@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         tmvictor-triggers-desc
-// @namespace    https://gitee.com/angle_god/tmvictor-localization-chinese
-// @version      1.0.0
+// @namespace    http://tampermonkey.net/
+// @version      1.0.1
 // @description  对Tmvictor的触发器增加备注框，目前没有导入导出功能，请手动复制粘贴 F12 -> Application -> storage -> Local Storage -> triggers-desc 的配置到其他浏览器
+// @downloadURL  https://github.com/pengminxuan/tmvictor-triggers-desc/blob/main/main.user.js
 // @author       天使不见时
 // @match        https://likexia.gitee.io/evolve/
 // @grant        none
